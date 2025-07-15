@@ -71,7 +71,7 @@ class Student extends Person implements Reportable {
 }
 
 // STEP 5: Main Class
-public class Main {
+public class Exception1 {
     public static void main(String[] args) {
         try {
             Student s1 = new Student("Danish", 20, 50);  // Pass case
